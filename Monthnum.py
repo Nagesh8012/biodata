@@ -1,0 +1,27 @@
+Month_num=int(input("Enter Month number:"))
+if(Month_num==1):
+    print("January")
+elif(Month_num==2):
+    print("February")
+elif(Month_num==3):
+    print("March")
+elif(Month_num==4):
+    print("April")
+elif(Month_num==5):
+    print("May")
+elif(Month_num==6):
+    print("June")
+elif(Month_num==7):
+    print("July")
+elif(Month_num==8):
+    print("August")
+elif(Month_num==9):
+    print("September")
+elif(Month_num==10):
+    print("October")
+elif(Month_num==11):
+    print("November")
+elif(Month_num==12):
+    print("December")
+else:
+    print("Invalid")
